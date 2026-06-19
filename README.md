@@ -32,7 +32,7 @@ Sistema desenvolvido em Python para simular o processo de compra de franquias de
 1. Clone este repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/nicollas-faria/bagagem-aeroporto.git
 ```
 
 2. Acesse a pasta do projeto:
